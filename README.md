@@ -27,9 +27,9 @@
   
 - :telescope: I’m learning Java, Spring, SQL, Hibernate.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olha-pashkova-a304a6252/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olha-pashkova-a304a6252/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -39,6 +39,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
